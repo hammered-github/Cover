@@ -1,4 +1,4 @@
-# Cover per la stampante per misura 300
+# Cover per la stampante misura 300
 
 Il coperchio aumentando l’altezza della stampante facilita i movimenti della testa di stampa, in questo modo il tubo bowden PTFE non viene ostacolato dal coperchio originale.
 E’ stato dedicato molto tempo per allineare l’estetica del coperchio al design della stampante, in modo da rendere il tutto armonioso.

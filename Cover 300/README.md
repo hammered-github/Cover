@@ -44,4 +44,6 @@ BOM:
 - Plex lato - 4pz.
 - Plex top - 1pz.
 
+---
+
 ![1](Image/Cover_300.jpg)

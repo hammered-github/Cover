@@ -47,3 +47,5 @@ BOM:
 ---
 
 ![1](Image/Cover_300.jpg)
+
+<p style="text-align: center;"><em><span style="font-size: 6pt;">- non si assume nessuna responsabilità, vietata la vendita e commercializzazione - assumes no responsibility, prohibited sale and marketing -</span></em></p>

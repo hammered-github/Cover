@@ -34,4 +34,4 @@ If you want to support my projects
 
 ![1](/Image/Cover.jpg)
 
-<p style="text-align: center;"><em><span style="font-size: 6pt;">- non si assume nessuna responsabilità, vietata la vendita e commercializzazione - assumes no responsibility, prohibited sale and marketing -</span></em></p>
+<p align="center"><em>• non si assume nessuna responsabilità • assumes no responsibility •</em></p>
